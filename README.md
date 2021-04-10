@@ -1,3 +1,3 @@
 # zuri-responsive-design-starter
 
-**https://github.com/oyeniyikolade/zuri-responsive-design-starter.git**
+**https://oyeniyikolade.github.io/zuri-responsive-design-starter/**
